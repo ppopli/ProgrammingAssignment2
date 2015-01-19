@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
         
         ##function to get inverse of the matrix
         
-        getinverse <- function() m
+        getinverse <- function() inverse
         
         ## list is returned containing the functions to create special
         ## matrix and cache its inverse
